@@ -1,7 +1,7 @@
 <h1>Testing Alerts in Splunk Using Windows 10 Pro</h1>
 
 <h2>Description</h2>
-This project shows how to set up and test alerts in Splunk by using a Windows 10 computer as the data source. It helps beginners learn how to collect Windows event logs, create alerts for specific events, and make sure Splunk notifies you when something important happens on your system.
+This project shows how to I set up and test alerts in Splunk by using a Windows 10 computer as the data source. As a beginner, it helped me learn how to collect Windows event logs, create alerts for specific events, and make sure Splunk notifies you when something important happens on your system.
 <br />
 
 
